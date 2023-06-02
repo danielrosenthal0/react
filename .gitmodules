@@ -1,0 +1,18 @@
+[submodule "react-first-project"]
+	path = react-first-project
+	url = https://github.com/danielrosenthal0/react-first-project.git
+[submodule "react-practice-project"]
+	path = react-practice-project
+	url = https://github.com/danielrosenthal0/react-practice-project.git
+[submodule "react-practice-project2"]
+	path = react-practice-project2
+	url = https://github.com/danielrosenthal0/react-practice-project2.git
+[submodule "react-food-order-app"]
+	path = react-food-order-app
+	url = https://github.com/danielrosenthal0/react-food-order-app.git
+[submodule "react-second-project"]
+	path = react-second-project
+	url = https://github.com/danielrosenthal0/react-second-project.git
+[submodule "react-backend"]
+	path = react-backend
+	url = https://github.com/danielrosenthal0/react-backend.git
