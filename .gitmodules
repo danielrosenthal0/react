@@ -16,3 +16,15 @@
 [submodule "react-backend"]
 	path = react-backend
 	url = https://github.com/danielrosenthal0/react-backend.git
+[submodule "react-http-hook"]
+	path = react-http-hook
+	url = https://github.com/danielrosenthal0/react-http-hook.git
+[submodule "react-forms"]
+	path = react-forms
+	url = https://github.com/danielrosenthal0/react-forms.git
+[submodule "react-redux"]
+	path = react-redux
+	url = https://github.com/danielrosenthal0/react-redux.git
+[submodule "react-redux2"]
+	path = react-redux2
+	url = https://github.com/danielrosenthal0/react-redux2.git
